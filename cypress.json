@@ -1,0 +1,11 @@
+{
+    "env": {
+        "baseUrl" : "https://www.phptravels.net/",
+        "customerUser" : {
+            "username" : "user@phptravels.com",
+            "password" : "demouser",
+            "wrongUsername" : "wrong",
+            "wrongPassword" : "wrongPassword"
+        }
+    }
+}
